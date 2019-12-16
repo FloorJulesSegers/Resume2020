@@ -7,6 +7,6 @@ function openNav() {
   }
 
   var swiper = new Swiper('.swiper-container', {
-    slidesPerView: 3,
+    slidesPerView: 2,
     spaceBetween: 30,
 });
